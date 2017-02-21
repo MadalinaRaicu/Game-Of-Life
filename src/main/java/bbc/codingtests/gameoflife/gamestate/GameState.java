@@ -9,6 +9,11 @@ public interface GameState {
      * @return
      */
     boolean isCellAliveAt(int row, int col);
+    
+    /**
+     * @return Number of neighbours one cell of the game has
+     */
+    int aliveNeighbours(int row, int col);
 
     /**
      * @return Number of rows the game has
