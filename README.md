@@ -1,6 +1,6 @@
 ## Task ##
 
-Your task is to implement the rules of Conway's Game of Life as explained in the document statement. You can use the code skeleton provided here as a starting point. In that case, implement the `evolve` method in `LifeImpl.java`. There are also some helper methods in `GameStateImpl.java` Feel free to make changes to the code that help you capture all the rules of the game. You can add more tests in `GameStateTest.java` and `LifeTest.java` to verify the correctness of your code.
+Conway's Game of Life as explained in the document statement. You can use the code skeleton provided here as a starting point. In that case, implement the `evolve` method in `LifeImpl.java`. There are also some helper methods in `GameStateImpl.java` Feel free to make changes to the code that help you capture all the rules of the game. You can add more tests in `GameStateTest.java` and `LifeTest.java` to verify the correctness of your code.
 
 ## Running the tests ##
 
